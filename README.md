@@ -1,8 +1,10 @@
-# React + Tailwind
+# Projeto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+Projeto realizado para o curso de Arquitetura de Front Ends na pós graduação em Arquitetura de Software Distribuído
 
-Additional references:
-* [Getting started with Vite](https://vitejs.dev/guide/)
-* [Tailwind documentation](https://tailwindcss.com/docs/installation)
+Executar
+
+````
+yarn install
+yarn run dev
 
