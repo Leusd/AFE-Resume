@@ -1,0 +1,39 @@
+{
+  "image_profile": "https://media.licdn.com/dms/image/D4D03AQGIY3a9GL31Dw/profile-displayphoto-shrink_800_800/0/1687874109195?e=1726099200&v=beta&t=KNfB1RC7lLy2koq8WqtbslrxYFNBQeVvC8lHBCX511o",
+  "about": "Graduado em Engenharia de Software, com 3 anos de experiência no desenvolvimento de Salesforce e Marketing Cloud. Conhecimento nas linguagens Java e Python. Experiência na utilização de frameworks React Js e React Native.",
+  "name": "João Américo Caiafa",
+  "experience": [
+    {
+      "title": "Engenheiro Salesforce",
+      "company": "NTT DATA Europe & Latam",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "description": "Desenvolvimento Salesforce (Apex, Batch, Flow, Lightning), correção de débitos técnicos, suporte a equipe e suporte ao CRM Salesforce.",
+      "image": "https://media.licdn.com/dms/image/D4D0BAQHuvou30YRddw/company-logo_200_200/0/1720712553131/ntt_data_europe_latam_logo?e=1729123200&v=beta&t=j-JyFKVvdn6tW7nXLm8bQNZSOSGlD8DKa9eBmb9OTJc"
+    },
+    {
+      "title": "Líder técnico",
+      "company": "Evolua Energia",
+      "startDate": "2020-08-01",
+      "endDate": "2023-12-01",
+      "description": "Liderar desenvolvimento de novas funcionalidades; conduzir a atualização dos parâmetros do sistema; emitir relatórios periódicos; análise de código dos sistema; parametrizar atualizações nos sistemas;",
+      "image": "https://media.licdn.com/dms/image/C4D0BAQEAUXe5ydRh2g/company-logo_200_200/0/1630491486292?e=1729123200&v=beta&t=NzKg3dL8oZ9m4RmlA6V8NOxye0Y0LKN9RqHFvmUYRiM"
+    },
+    {
+      "title": "Estagiário",
+      "company": "Banco do Brasil",
+      "startDate": "2018-09-01",
+      "endDate": "2020-08-01",
+      "description": "Cooperar na manutenção e atualização de banco de dados e sistemas corporativos; Participar da elaboração e desenvolvimento de planilhas via sistemas corporativos; Auxiliar na administração de contrato e conferencia de notas fiscais e acompanhar a elaboração de aditivos contratuais e elaboração de correspondências.",
+      "image": "https://media.licdn.com/dms/image/D4D0BAQEc3nZjWOBDsQ/company-logo_200_200/0/1698059824382/bancodobrasil_logo?e=1729123200&v=beta&t=TwHp3f2pmea3DY1LHcgAO3je_NVrz-7BH8WbgP95zX0"
+    },
+    {
+      "title": "Monitoria Algoritmos e Estruturas de Dados II",
+      "company": "PUC Minas",
+      "startDate": "2018-08-01",
+      "endDate": "2018-12-01",
+      "description": "Exercer a atividade de acompanhamento e resolução de dúvidas pertinentes a disciplina Algoritmos e Estruturas de Dados II.",
+      "image": "https://media.licdn.com/dms/image/C4D0BAQGPokOeQ8suzQ/company-logo_200_200/0/1631310429565?e=1729123200&v=beta&t=QSeO4ZOdPDrN6Koyz5ZPxkRznZ81Hn60FGIkwMJzWMg"
+    }
+  ]
+}
