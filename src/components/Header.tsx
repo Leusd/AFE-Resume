@@ -24,7 +24,7 @@ export default function Header() {
         justifyContent="center"
         alignItems="center"
       >
-        <Grid item xs={4} md={2}>
+        <Grid item xs={6} sm={4} md={2}>
           <img
             style={{
               borderRadius: "50%",
@@ -35,7 +35,7 @@ export default function Header() {
             src={resume.image_profile}
           />
         </Grid>
-        <Grid item xs={8} md={4}>
+        <Grid item xs={8} sm={8} md={4}>
           <Typography variant="h3" color={"#FFFFFF"} gutterBottom>
             {resume.name}
           </Typography>
